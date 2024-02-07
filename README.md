@@ -3,7 +3,7 @@
 
 ## Game Link
 [Web Build](https://baoatwork.github.io/closest/index.html)
-Please use a computer browser and maximize the window for the best experience.
+(Please use a computer browser and maximize the window for the best experience)
 
 ## Introduction
 Sumner is a wealthy friend of yours, and tomorrow is his birthday. Sumner has invited you to join his five-day-long birthday party at his suburban mansion. Now you are at the mansion's gate, and everything here seems tranquil and beautiful. However, what you don't know is, that a bizarre journey is about to unfold...
