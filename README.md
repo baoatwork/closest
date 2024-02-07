@@ -2,7 +2,7 @@
 ![Image 1](images/background/cover.jpg)
 
 ## Game Link
-[Web Build](https://baoatwork.github.io/closest/index.html)
+[Web Build](https://baoatwork.github.io/closest/index.html)\
 (Please use a computer browser and maximize the window for the best experience)
 
 ## Introduction
@@ -21,9 +21,9 @@ Also, we want to express our sincere thanks to our friends who participated in t
  Google font families, including Creepstar, Indie flower, Gloria Hallelujah, Righteous, and Pacifico.
 
  #### Audio and Music
- Power（from House of Cards) by Jeff Beal
- Intro (from Jackie) by Mica Levi
- Rate 2 Mechanic (from Passengers) by Thomas Newman
+ Power（from House of Cards) by Jeff Beal\
+ Intro (from Jackie) by Mica Levi\
+ Rate 2 Mechanic (from Passengers) by Thomas Newman\
  せめぎ合い (from 名探偵コナン) by 大野克夫
 
 ## Game Design Documents
